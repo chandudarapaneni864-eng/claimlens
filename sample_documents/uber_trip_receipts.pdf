@@ -1,0 +1,51 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 726 >>
+stream
+BT /F2 18 Tf 50 800 Td (Uber) Tj ET
+BT /F2 12 Tf 50 774 Td (Trip receipts summary) Tj ET
+0.75 w 50 760 m 545 760 l S
+BT /F1 10.5 Tf 50 744 Td (Receipt No: UBR-2290-4471) Tj ET
+BT /F1 10.5 Tf 50 729 Td (Rider Name: Sneha Iyer) Tj ET
+BT /F1 10.5 Tf 50 714 Td (Date: 12/09/2026) Tj ET
+0.75 w 50 703 m 545 703 l S
+BT /F1 10.5 Tf 50 687 Td (Office to Whitefield client site) Tj ET
+BT /F1 10.5 Tf 511.4 687 Td (640.00) Tj ET
+BT /F1 10.5 Tf 50 671 Td (Whitefield to MG Road) Tj ET
+BT /F1 10.5 Tf 511.4 671 Td (580.00) Tj ET
+BT /F1 10.5 Tf 50 655 Td (MG Road to office) Tj ET
+BT /F1 10.5 Tf 511.4 655 Td (630.00) Tj ET
+0.75 w 50 643 m 545 643 l S
+BT /F1 10.5 Tf 50 627 Td (Total Rs.) Tj ET
+BT /F1 10.5 Tf 500.2 627 Td (1,850.00) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000348 00000 n 
+0000000450 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1227
+%%EOF

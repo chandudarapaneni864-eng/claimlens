@@ -1,0 +1,50 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 6 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 674 >>
+stream
+BT /F2 18 Tf 50 800 Td (Apollo Clinic) Tj ET
+BT /F1 8.5 Tf 50 774 Td (Koramangala, Bengaluru) Tj ET
+BT /F2 12 Tf 50 762 Td (OPD Bill) Tj ET
+0.75 w 50 748 m 545 748 l S
+BT /F1 10.5 Tf 50 732 Td (Bill No: APC-55120) Tj ET
+BT /F1 10.5 Tf 50 717 Td (Patient Name: Sneha Iyer) Tj ET
+BT /F1 10.5 Tf 50 702 Td (Bill Date: 24/09/2026) Tj ET
+0.75 w 50 691 m 545 691 l S
+BT /F1 10.5 Tf 50 675 Td (Consultation, Dr. N. Hegde) Tj ET
+BT /F1 10.5 Tf 511.4 675 Td (800.00) Tj ET
+BT /F1 10.5 Tf 50 659 Td (Blood panel) Tj ET
+BT /F1 10.5 Tf 500.2 659 Td (3,400.00) Tj ET
+0.75 w 50 647 m 545 647 l S
+BT /F1 10.5 Tf 50 631 Td (Net Amount Rs.) Tj ET
+BT /F1 10.5 Tf 500.2 631 Td (4,200.00) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000348 00000 n 
+0000000450 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1175
+%%EOF
